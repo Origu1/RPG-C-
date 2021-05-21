@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5fmBcqIVqwMcx5T6KhHjrmohGD6zVNaeTj6FOk6ojFSCwwCCEr5pgtDUt6I+uR1zP2L/yqe4nG/Rd/QQ6H+7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guiba\\OneDrive\\Desktop\\Jogo\\Trabalho Jogo RPG\\Jogo GUI\\Jogo GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guiba\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\guiba\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\guiba\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\guiba\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

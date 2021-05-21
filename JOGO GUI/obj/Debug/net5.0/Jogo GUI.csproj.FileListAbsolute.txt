@@ -1,0 +1,88 @@
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csprojAssemblyReference.cache
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfoInputs.cache
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfo.cs
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csproj.CoreCompileInputs.cache
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\Jogo GUI.exe
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\Jogo GUI.deps.json
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.json
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.dev.json
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\bin\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Debug\net5.0\Jogo GUI.genruntimeconfig.cache
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.exe
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.deps.json
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.json
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.dev.json
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csprojAssemblyReference.cache
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfoInputs.cache
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfo.cs
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csproj.CoreCompileInputs.cache
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.genruntimeconfig.cache
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.exe
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.deps.json
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.json
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.dev.json
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csprojAssemblyReference.cache
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfoInputs.cache
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfo.cs
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csproj.CoreCompileInputs.cache
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\OneDrive\Desktop\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.genruntimeconfig.cache
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.exe
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.deps.json
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.json
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.dev.json
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.dll
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.pdb
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csprojAssemblyReference.cache
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfoInputs.cache
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfo.cs
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.dll
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.pdb
+C:\Users\Felipe\Downloads\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.genruntimeconfig.cache
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.exe
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.deps.json
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.json
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.runtimeconfig.dev.json
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csprojAssemblyReference.cache
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfoInputs.cache
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.AssemblyInfo.cs
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csproj.CoreCompileInputs.cache
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\ref\Jogo GUI.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.pdb
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.genruntimeconfig.cache
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\guiba\OneDrive\Desktop\Jogo\Trabalho Jogo RPG\Jogo GUI\obj\Debug\net5.0\Jogo GUI.csproj.CopyComplete

@@ -1,0 +1,4 @@
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Release\net5.0\Jogo GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Release\net5.0\Jogo GUI.AssemblyInfoInputs.cache
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Release\net5.0\Jogo GUI.AssemblyInfo.cs
+C:\Users\guiba\Desktop\Joguinho\Jogo GUI\Jogo GUI\obj\Release\net5.0\Jogo GUI.csproj.CoreCompileInputs.cache
